@@ -54,10 +54,10 @@
 		3F09C74D1EC3BC05004CE87B /* Taps */ = {
 			isa = PBXGroup;
 			children = (
-				3F09C74E1EC3BC05004CE87B /* AppDelegate.swift */,
-				3F09C7501EC3BC05004CE87B /* ViewController.swift */,
 				3F09C7521EC3BC05004CE87B /* Main.storyboard */,
+				3F09C7501EC3BC05004CE87B /* ViewController.swift */,
 				3F09C7551EC3BC05004CE87B /* Assets.xcassets */,
+				3F09C74E1EC3BC05004CE87B /* AppDelegate.swift */,
 				3F09C7571EC3BC05004CE87B /* LaunchScreen.storyboard */,
 				3F09C75A1EC3BC05004CE87B /* Info.plist */,
 			);
